@@ -1,8 +1,14 @@
 #支持私库
+mysql:5.7.16
 mysql:5.7.37
 nginx:1.23.3
+nginx:stable
 consul:1.15.2
+consul:1.15.4
 redis:7.0.9
+redis:7.2.5
 webcenter/activemq:5.14.3
 onlyoffice/documentserver:7.3.2
+onlyoffice/documentserver:7.5
 #支持指定架构
+--platform=linux/amd64 linux/arm64
