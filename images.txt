@@ -1,4 +1,8 @@
 #支持私库
 mysql:5.7.37
+nginx:1.23.3
+consul:1.15.2
+redis:7.0.9
+webcenter/activemq:5.14.3
+onlyoffice/documentserver:7.3.2
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
