@@ -10,10 +10,11 @@ redis:7.2.5
 webcenter/activemq:5.14.3
 onlyoffice/documentserver:7.3.2
 onlyoffice/documentserver:7.5
-centos8.0
-centos9.0
-jdk11
-jdk8
+centos:7.9
+centos:8
+centos:9
+openjdk:11
+jdk:8
 activemq:5.17.6
 #支持指定架构
 --platform=linux/amd64 linux/arm64
