@@ -8,8 +8,8 @@ consul:1.15.4
 redis:7.0.9
 redis:7.2.5
 webcenter/activemq:5.14.3
-onlyoffice/documentserver:7.3.2 onlyoffice:7.3.2
-onlyoffice/documentserver:7.5 onlyoffice:7.5
+onlyoffice/documentserver:7.3.2
+onlyoffice/documentserver:7.5
 centos
 openjdk:11
 sqlserver
