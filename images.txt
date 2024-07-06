@@ -12,10 +12,8 @@ onlyoffice/documentserver:7.3.2
 onlyoffice/documentserver:7.5
 centos
 openjdk:11
-sqlserver
 oracle
 tomcat
-tongweb
 rabbitmq
 jenkins
 java
