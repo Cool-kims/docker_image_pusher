@@ -14,11 +14,9 @@ centos
 openjdk:11
 tomcat
 rabbitmq
-jenkins
 java
 node
 mariadb
-swarm
 docker
 #支持指定架构
 --platform=linux/amd64 linux/arm64
