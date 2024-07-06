@@ -12,9 +12,8 @@ onlyoffice/documentserver:7.3.2
 onlyoffice/documentserver:7.5
 centos
 openjdk:11
-k8s
 activemq:5.17.6
-Kingbase
+kingbase
 sqlserver
 #支持指定架构
 --platform=linux/amd64 linux/arm64
