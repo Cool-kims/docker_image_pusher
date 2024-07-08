@@ -14,9 +14,10 @@ centos
 openjdk:11
 tomcat
 rabbitmq
-java
 node
 mariadb
-docker
+ffdfgdfg/nps:v0.26.10
+jenkins/jenkins:2.466
+mcr.microsoft.com/mssql/server:2022-latest
 #支持指定架构
 --platform=linux/amd64 linux/arm64
