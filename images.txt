@@ -19,3 +19,4 @@ mariadb
 ffdfgdfg/nps:v0.26.10
 jenkins/jenkins:2.466
 mcr.microsoft.com/mssql/server:2022-latest
+jeessy/ddns-go
