@@ -1,4 +1,5 @@
 #支持私库
+tomcat:8.5.83-jdk11-corretto
 mysql:5.7.16
 mysql:5.7.37
 mysql:5.7.43
