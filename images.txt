@@ -1,5 +1,8 @@
 #支持私库
 tomcat:8.5.83-jdk11-corretto
+tomcat
+nacos/nacos-server:2.0.3
+nacos/nacos-server:v2.4.2.1
 mysql:5.7.16
 mysql:5.7.37
 mysql:5.7.43
@@ -19,16 +22,16 @@ ffdfgdfg/npc:v0.26.10
 ffdfgdfg/nps:v0.26.10
 openjdk:11
 openjdk:17
+openjdk:21
 webcenter/activemq:5.14.3
 webcenter/activemq:latest
 onlyoffice/documentserver:7.3.2
 onlyoffice/documentserver:7.5
 onlyoffice/documentserver:latest
-centos
-tomcat
 rabbitmq
 node
 mariadb
 jenkins/jenkins:2.466
 mcr.microsoft.com/mssql/server:2022-latest
+centos
 
