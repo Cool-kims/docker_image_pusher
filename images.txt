@@ -1,5 +1,7 @@
 #支持私库
 tomcat:8.5.83-jdk11-corretto
+tomcat:9.0.97-jre8-temurin-noble
+tomcat:9.0.97-jdk11-temurin-noble
 tomcat
 nacos/nacos-server:2.0.3
 nacos/nacos-server:v2.4.2.1
