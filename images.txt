@@ -1,3 +1,4 @@
+nginx
 #支持私库
 tomcat:8.5.83-jdk11-corretto
 tomcat:9.0.97-jre8-temurin-noble
