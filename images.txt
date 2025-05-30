@@ -10,6 +10,7 @@ mysql:5.7.16
 mysql:5.7.37
 mysql:5.7.43
 mysql:8.0.32
+mysql:8.0.39
 nginx:1.23.3
 nginx:1.24
 nginx:stable
