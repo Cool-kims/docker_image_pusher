@@ -22,8 +22,6 @@ redis:7.0.9
 redis:7.2
 redis:7.2.5
 redis:latest
-ffdfgdfg/npc:v0.26.10
-ffdfgdfg/nps:v0.26.10
 openjdk:11
 openjdk:17
 openjdk:21
