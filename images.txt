@@ -1,15 +1,11 @@
-nginx
-#支持私库
-tomcat:8.5.83-jdk11-corretto
-tomcat:9.0.97-jre8-temurin-noble
-tomcat:9.0.97-jdk11-temurin-noble
-tomcat
+cr.loongnix.cn/library/consul:1.15.2
 cr.loongnix.cn/library/mysql:5.7.39
 cr.loongnix.cn/library/openjdk:8u352
 cr.loongnix.cn/library/redis:7.2
 cr.loongnix.cn/library/tomcat:9.0.45
-nacos/nacos-server:2.0.3
-nacos/nacos-server:v2.4.2.1
+tomcat:8.5.83-jdk11-corretto
+tomcat:9.0.97-jre8-temurin-noble
+tomcat:9.0.97-jdk11-temurin-noble
 loongarch64/redis:5.0.14
 loongarch64/consul:1.15.2
 loongarch64/tomcat:9.0.45
@@ -35,6 +31,8 @@ redis:latest
 openjdk:11
 openjdk:17
 openjdk:21
+nacos/nacos-server:2.0.3
+nacos/nacos-server:v2.4.2.1
 webcenter/activemq:5.14.3
 webcenter/activemq:latest
 onlyoffice/documentserver:7.3.2
@@ -45,5 +43,4 @@ node
 mariadb
 jenkins/jenkins:2.466
 mcr.microsoft.com/mssql/server:2022-latest
-centos
 
