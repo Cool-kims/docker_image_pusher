@@ -4,6 +4,10 @@ tomcat:8.5.83-jdk11-corretto
 tomcat:9.0.97-jre8-temurin-noble
 tomcat:9.0.97-jdk11-temurin-noble
 tomcat
+cr.loongnix.cn/library/mysql:5.7.39
+cr.loongnix.cn/library/openjdk:8u352
+cr.loongnix.cn/library/redis:7.2
+cr.loongnix.cn/library/tomcat:9.0.45
 nacos/nacos-server:2.0.3
 nacos/nacos-server:v2.4.2.1
 loongarch64/redis:5.0.14
