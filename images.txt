@@ -1,3 +1,4 @@
+docker.langbot.app/langbot-public/rockchin/langbot:latest
 cr.loongnix.cn/library/consul:1.15.2
 cr.loongnix.cn/library/mysql:5.7.39
 cr.loongnix.cn/library/openjdk:8u352
