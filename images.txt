@@ -1,4 +1,5 @@
 docker.langbot.app/langbot-public/rockchin/langbot:latest
+rockchin/langbot:latest
 cr.loongnix.cn/library/consul:1.15.2
 cr.loongnix.cn/library/mysql:5.7.39
 cr.loongnix.cn/library/openjdk:8u352
@@ -7,12 +8,6 @@ cr.loongnix.cn/library/tomcat:9.0.45
 tomcat:8.5.83-jdk11-corretto
 tomcat:9.0.97-jre8-temurin-noble
 tomcat:9.0.97-jdk11-temurin-noble
-loongarch64/redis:5.0.14
-loongarch64/consul:1.15.2
-loongarch64/tomcat:9.0.45
-loongarch64/nginx:1.24.0
-loongarch64/mariadb:10.5.18
-loongarch64/openjdk:8-sid
 mysql:5.7.16
 mysql:5.7.37
 mysql:5.7.43
